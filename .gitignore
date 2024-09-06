@@ -1,2 +1,4 @@
-Log/*
-Model/*.safetensors
+SDXL/Log/*
+SDXL/Model/*.safetensors
+SDXL/Model/*.json
+SDXL/Model/*.toml
